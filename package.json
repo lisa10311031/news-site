@@ -1,0 +1,13 @@
+{
+  "name": "globe-wire-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日自動搜尋並分類全球新聞的靜態網站",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
